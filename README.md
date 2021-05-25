@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Letras.mus](https://letras.mus.br)' android app
+- 🔭 I’m currently working on [Letras.mus](https://letras.mus.br)
 - 📫 How to reach me: @filippinheiro at twitter and in/filippinheiro on linkedin
 - 😄 Pronouns: he/they
 
